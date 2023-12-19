@@ -3,5 +3,5 @@ Using goroutines in Golang to call OpenWeather API to check weather at locations
 
 ## Operation:
 - Obtain OpenWeather API key (free up to 1000 calls/day)
-- Compile and run programs
+- Compile and run programs (go run program_name.go)
 - 2 programs are included to benchmark the advantage of using goroutines versus control program
